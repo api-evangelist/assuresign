@@ -1,0 +1,86 @@
+{
+    "name": "AssureSign",
+    "description": "AssureSign boasts both enterprise and small business solutions, offers a partner program for integration, reseller and referral partners and is the only electronic signature solution to empower all users to create and own their entire signature experie...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/547-assuresign.jpg",
+    "tags": [
+        "api provider",
+        "documents",
+        "have api",
+        "signatures"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/assuresign\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "AssureSign",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/547-assuresign.jpg",
+            "humanURL": "http:\/\/www.assuresign.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/assuresign-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/assuresign-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.assuresign.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.assuresign.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/assuresign"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/assuresign"
+        },
+        {
+            "type": "Email",
+            "url": "support@assuresign.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@assuresign.com"
+        },
+        {
+            "type": "Email",
+            "url": "security@assuresign.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/assuresign"
+        },
+        {
+            "type": "Partners",
+            "url": "https:\/\/www.assuresign.com\/partner-program\/"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.assuresign.com\/pricing\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/assuresign"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.assuresign.com"
+        }
+    ]
+}
